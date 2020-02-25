@@ -1,4 +1,4 @@
 module.exports = {
-  placeholderName: 'react-native-template',
+  placeholderName: 'HelloWorld',
   templateDir: './',
 }
